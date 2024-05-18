@@ -39,3 +39,10 @@ The following default function from ZeroMQ will receive the string on socket 111
 socket.recv()
 
 The string will be received as a Byte_String, users will need to use the .decode() functioon within Python to convert the Byte_String to a Python String.
+
+
+## **UML Diagram**
+
+<p align="center">
+    <img src="./diagram.png">
+</p>

@@ -44,5 +44,5 @@ The string will be received as a Byte_String, users will need to use the .decode
 ## **UML Diagram**
 
 <p align="center">
-    <img src="./diagram.png">
+    <img src="./Diagram.png">
 </p>

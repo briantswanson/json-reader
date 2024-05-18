@@ -1,10 +1,4 @@
 # **json-reader**
-Brian Swanson
-Oregon State University
-CS 361
-Spring 2024
-Group 6
-Microservice A for Jovanny Gochez
 
 This microservice uses ZeroMQ to receive a json file that contains a python dictionary.
 The service will then pull data from the dictionary and return a string, formatted for Jovanny's program.
